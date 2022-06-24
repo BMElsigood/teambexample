@@ -1,1 +1,3 @@
 workshop
+
+now we can edit our notes files
