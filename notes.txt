@@ -3,3 +3,5 @@ workshop
 now we can edit our notes files
 
 it's now on github
+
+Hey I made this change.
